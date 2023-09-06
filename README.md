@@ -17,8 +17,9 @@ OBS: Se estiver pelo VScode, instale a extensão do Spring Boot
     
 ## Diagrama do Projeto
 
-Adicionar imagem
-
+<p align="center">
+    <img src="src/main/resources/assets/diagrama-uml-livraria.png">
+</p>
 
 ## Algumas Funcionalidades da API
 
